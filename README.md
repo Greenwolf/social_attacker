@@ -1,4 +1,4 @@
-# social_attacker
+# Social Attacker
 An Open Source Multi Site Automated Social Media Phishing Framework
 
 Coming 8th August, 2019
