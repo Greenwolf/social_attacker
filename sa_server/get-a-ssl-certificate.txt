@@ -1,0 +1,7 @@
+SSL Certificate Generation https://www.sslforfree.com
+
+Follow the sites instructions to get a certificate for your domain
+
+Combine certificates private.key,certificate.crt,ca_bundle.crt in that order in new file called cert.pem
+
+Place in same folder as server.py, only web/* will be served so this isn't made public. 

@@ -1,0 +1,5 @@
+markovify
+selenium
+pyvirtualdisplay
+prettytable
+pandas
